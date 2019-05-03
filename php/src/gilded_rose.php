@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * https://github.com/Snugits/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements_ru.txt
+ */
+
 class GildedRose {
 
     private $items;

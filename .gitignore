@@ -2,3 +2,6 @@ bin
 obj
 *.sln.DotSettings.user
 .vs
+.idea/
+php/vendor/
+php/test/.phpunit.result.cache
